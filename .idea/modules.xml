@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hehecraft.iml" filepath="$PROJECT_DIR$/.idea/modules/hehecraft.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hehecraft_api.iml" filepath="$PROJECT_DIR$/.idea/modules/hehecraft_api.iml" group="hehecraft" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hehecraft_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hehecraft_main.iml" group="hehecraft" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hehecraft_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hehecraft_test.iml" group="hehecraft" />
+    </modules>
+  </component>
+</project>
